@@ -1,0 +1,3 @@
+# Firebase Data Access Error: Database Reference Not Initialized
+
+This repository demonstrates a common issue in Firebase applications: attempting to access the database before the Firebase SDK is fully initialized. This often results in unexpected errors or undefined behavior. The example showcases the problem and provides a solution using Promises or async/await to ensure proper initialization before data operations.
